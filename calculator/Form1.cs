@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace calculator
@@ -16,7 +9,7 @@ namespace calculator
         string firstNumber;
         string secondNumber;
         char actionType = ' ';
-
+        int result;
         public Form1()
         {
             InitializeComponent();
@@ -30,11 +23,14 @@ namespace calculator
         {  
             switch (actionType)
             {
+
                 case('+'):
-                    txtResult.Text = (int.Parse(firstNumber) + int.Parse(secondNumber)).ToString();
+                    result = int.Parse(firstNumber) + int.Parse(secondNumber);
+                    
+                    //txtResult.Text = (int.Parse(firstNumber) + int.Parse(secondNumber)).ToString();
                     //MessageBox.Show("Typ:" + actionType.ToString() + ".\nA= " + firstNumber.ToString() + "\nB=" + secondNumber.ToString());
                     //int result = (int.Parse(firstNumber) + int.Parse(secondNumber));
-                    //txtResult.Text = result.ToString();
+                    txtResult.Text = result.ToString();
                     break;
                 case ('-'):
                     txtResult.Text = (int.Parse(firstNumber) - int.Parse(secondNumber)).ToString();
@@ -50,7 +46,7 @@ namespace calculator
                     txtResult.Text = (int.Parse(firstNumber) / int.Parse(secondNumber)).ToString();
                     break;
 
-                    firstNumber = txtResult.Text; 
+                    firstNumber = result.ToString(); 
                     secondNumber = "";
                     actionType = ' ';
             }
