@@ -1,0 +1,17 @@
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+c:\users\dziwota\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\Tomasz Kołecki\Desktop\programowanie .net\Calculator\Calculator\obj\Release\Calculator.pdb
